@@ -1,0 +1,7 @@
+/public/
+/runtime/
+/output/
+/local/benchmark-paths.yaml
+*.stdout.log
+*.stderr.log
+/.vite-cache/
